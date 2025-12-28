@@ -51,12 +51,6 @@ enterprise mobile security requirements.
 
 ---
 
-## 📊 GitHub Stats
-
-![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish2001&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/tanishbatham]
 
