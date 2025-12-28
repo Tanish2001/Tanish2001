@@ -41,26 +41,19 @@ I primarily work on **Java & Spring Boot** for backend development and have hand
 
 ## 📂 Featured Projects
 
-### 🔹 Push Notification Service (Spring Boot)
-- Built a scalable push notification system using **Firebase Cloud Messaging**
-- Supports bulk notifications with error handling per token
-- Optimized for high throughput using multithreading
+### 🔹 Anti Tampering Plugin
+- Developed a custom Capacitor plugin in TypeScript to verify and enforce the integrity of static app assets, preventing unauthorized modifications
+and hardening runtime security.
+- Implemented real-time tamper detection and user notifications to alert users when critical files were compromised, aligning with stringent
+enterprise mobile security requirements.
+- Published and maintained the open-source project on GitHub (https://github.com/Tanish2001/capacitor-antitampering).
 
-### 🔹 To-Do Application (Spring Boot + MySQL)
-- REST API–based CRUD application
-- JWT-based authentication
-- Clean layered architecture
-
-### 🔹 Ionic Mobile App
-- Cross-platform app using Ionic 7 + Angular
-- Implemented deep linking & push notifications
-- Optimized UI for phones and tablets
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish2001&show_icons=true&theme=default)
 
 ---
 
